@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rudin</h1>
+<h1 align="center">Hi 👋, I'm Riska</h1>
 <h3 align="center">Fullstack Developer & Cyber Security</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudinengineer&label=Profile%20views&color=0e75b6&style=flat" alt="rudinengineer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riskaengineer&label=Profile%20views&color=0e75b6&style=flat" alt="riskaengineer" /> </p>
 
 - 🔭 I’m currently developing [RekberinAja](https://rekberinaja.com/)
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about Golang, Rust and Java
 
-- 📫 How to reach me **rudin@rekberinaja.com**
+- 📫 How to reach me **.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
