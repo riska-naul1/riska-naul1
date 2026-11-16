@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/riska-naul1">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&height=40&lines=Building+secure+and+scalable+web+applications;Informatics+Student+%40+Politeknik+Negeri+Lhokseumawe;Growing+one+commit+at+a+time" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&height=40&lines=Building+web+applications+with+PHP+and+Laravel;Informatics+Student+%40+Politeknik+Negeri+Lhokseumawe;Growing+one+commit+at+a+time" alt="typing" />
 </a>
 
 <br/><br/>
@@ -25,8 +25,7 @@ const riska = {
   education: "Informatics, Politeknik Negeri Lhokseumawe '25",
   location: "Aceh, Indonesia",
   focus: ["Web Development", "Backend Engineering", "Cyber Security"],
-  currentlyLearning: ["Secure Coding", "System Design"],
-  openTo: ["Internship", "Collaboration", "Open Source"],
+  openTo: ["Internship", "Collaboration"],
   motto: "Growing one commit at a time",
 };
 ```
@@ -37,20 +36,37 @@ const riska = {
 
 <table>
   <tr>
-    <td width="130"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" alt="frontend" /></td>
+    <td width="150"><b>Language</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=8892BF" alt="PHP" />
+    </td>
   </tr>
   <tr>
-    <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel&theme=dark" alt="backend" /></td>
+    <td><b>Framework</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Laravel-0f172a?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
+    </td>
   </tr>
   <tr>
     <td><b>Database</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="database" /></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/pgAdmin-0f172a?style=for-the-badge&logo=postgresql&logoColor=22d3ee" alt="pgAdmin" />
+    </td>
   </tr>
   <tr>
-    <td><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&theme=dark" alt="tools" /></td>
+    <td><b>Environment</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+      <img src="https://img.shields.io/badge/VS%20Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Version Control</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+    </td>
   </tr>
 </table>
 
@@ -62,9 +78,9 @@ const riska = {
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://rekberinaja.com">RekberinAja</a></h3>
-      <p>Platform for safer online transactions. I contribute as a Fullstack Developer, from interface to database.</p>
-      <img src="https://img.shields.io/badge/Fullstack-312e81?style=flat-square" />
-      <img src="https://img.shields.io/badge/Web-0e7490?style=flat-square" />
+      <p>Platform for safer online transactions. I contribute as a Fullstack Developer.</p>
+      <img src="https://img.shields.io/badge/Laravel-312e81?style=flat-square" />
+      <img src="https://img.shields.io/badge/PostgreSQL-0e7490?style=flat-square" />
     </td>
     <td width="50%" valign="top">
       <h3>Project Name</h3>
