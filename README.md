@@ -37,7 +37,6 @@
 - 📚 Currently learning cyber security fundamentals and secure coding
 - 🎯 Goal: become a software engineer who builds secure and useful products
 - 💬 Ask me about web development, databases, or getting started with GitHub
-- ⚡ Fun fact: I turned my GitHub profile into a pixel-perfect dashboard (with a snake!)
 
 ---
 
@@ -103,8 +102,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riska-naul1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riska-naul1&layout=compact&theme=radical&hide_border=true" alt="top langs" height="180" />
+  <img src="https://img.shields.io/github/followers/riska-naul1?style=for-the-badge&logo=github&color=6d28d9&label=Followers" alt="followers" />
+  <img src="https://img.shields.io/github/stars/riska-naul1?style=for-the-badge&logo=github&color=6d28d9&label=Stars" alt="stars" />
 </p>
 
 <p align="center">
@@ -112,15 +111,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riska-naul1&theme=radical&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
-
----
-
-## 📅 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riska-naul1&bg_color=0d1117&color=c084fc&line=6d28d9&point=e9d5ff&area=true&hide_border=true" alt="activity graph" width="100%" />
+  <img src="https://img.shields.io/badge/Fullstack-Developer-6d28d9?style=for-the-badge" alt="role" />
+  <img src="https://img.shields.io/badge/Cyber%20Security-Enthusiast-4c1d95?style=for-the-badge" alt="interest" />
 </p>
 
 ---
