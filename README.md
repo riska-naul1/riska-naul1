@@ -1,57 +1,26 @@
-package main
+<h1 align="center">Hi 👋, I'm Rudin</h1>
+<h3 align="center">Fullstack Developer & Cyber Security</h3>
 
-import (
-	"fmt"
-	"strings"
-)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudinengineer&label=Profile%20views&color=0e75b6&style=flat" alt="rudinengineer" /> </p>
 
-type Profile struct {
-	Name       string
-	Roles      []string
-	Working    string
-	WorkingURL string
-	Learning   string
-	AskAbout   []string
-	Email      string
-	Languages  []string
-}
+- 🔭 I’m currently developing [RekberinAja](https://rekberinaja.com/)
 
-const (
-	reset  = "\033[0m"
-	bold   = "\033[1m"
-	cyan   = "\033[36m"
-	green  = "\033[32m"
-	yellow = "\033[33m"
-)
+- 🌱 I’m currently learning Modern Technologies
 
-func main() {
-	p := Profile{
-		Name:       "Rudin",
-		Roles:      []string{"Fullstack Developer", "Cyber Security"},
-		Working:    "RekberinAja",
-		WorkingURL: "https://rekberinaja.com/",
-		Learning:   "Modern Technologies",
-		AskAbout:   []string{"Golang", "Rust", "Java"},
-		Email:      "rudin@rekberinaja.com",
-		Languages:  []string{"Go", "Rust", "Java"},
-	}
+- 💬 Ask me about Golang, Rust and Java
 
-	line := strings.Repeat("═", 50)
+- 📫 How to reach me **rudin@rekberinaja.com**
 
-	fmt.Printf("%s%s%s\n", cyan, line, reset)
-	fmt.Printf("%s👋 Hi, I'm %s%s\n", bold, p.Name, reset)
-	fmt.Printf("%s%s%s\n", cyan, line, reset)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="mailto:rudin@rekberinaja.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://fb.com/rudinengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rudinengineer" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/codingbarengrudin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingbarengrudin" height="30" width="40" /></a>
+</p>
 
-	fmt.Printf("%s💼 Role      :%s %s\n", yellow, reset, strings.Join(p.Roles, " & "))
-	fmt.Printf("%s🔭 Building  :%s %s (%s)\n", yellow, reset, p.Working, p.WorkingURL)
-	fmt.Printf("%s🌱 Learning  :%s %s\n", yellow, reset, p.Learning)
-	fmt.Printf("%s💬 Ask me    :%s %s\n", yellow, reset, strings.Join(p.AskAbout, ", "))
-	fmt.Printf("%s📫 Contact   :%s %s\n", yellow, reset, p.Email)
-
-	fmt.Printf("\n%sLanguages & Tools:%s\n", green, reset)
-	for _, l := range p.Languages {
-		fmt.Printf("  %s• %s%s\n", green, l, reset)
-	}
-
-	fmt.Printf("%s%s%s\n", cyan, line, reset)
-}
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+</p>
