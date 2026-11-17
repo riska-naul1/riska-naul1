@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4FC3D9&center=true&vCenter=true&width=640&height=45&lines=Building+web+apps+with+PHP+%26+Laravel;Learning+Cyber+Security+every+day;Growing+one+commit+at+a+time;Currently+building+RekberinAja" alt="typing" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4FC3D9&center=true&vCenter=true&width=640&height=45&lines=Building+web+apps+with+PHP+%26+Laravel;Learning+Cyber+Security+every+day;Growing+one+commit+at+a+time;Turning+ideas+into+code" alt="typing" /></a>
 
 <br/>
 
@@ -28,8 +28,7 @@ Mahasiswi **Teknik Informatika** di **Politeknik Negeri Lhokseumawe**. Aku suka 
 <td width="50%" valign="top">
 
 ### 🚀 Sedang Dikerjakan
-**[RekberinAja](https://rekberinaja.com/)**
-Platform yang aku kembangkan sekarang.
+Proyek aplikasi web dengan **PHP** dan **Laravel**.
 
 </td>
 <td width="50%" valign="top">
@@ -106,9 +105,8 @@ Jadi fullstack developer yang paham keamanan aplikasi.
 
 <div align="center">
 
-<a href="mailto:riska@rekberinaja.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
-<a href="https://rekberinaja.com/"><img src="https://img.shields.io/badge/RekberinAja-4fc3d9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="rekberinaja" /></a>
+<a href="https://github.com/riska-naul1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 
 <br/><br/>
 
