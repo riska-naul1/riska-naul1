@@ -1,123 +1,119 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:312e81,100:0891b2&height=230&section=header&text=Riska%20Ayu%20Nauli&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%C2%B7%20Cyber%20Security%20Enthusiast&descSize=18&descColor=a5f3fc&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b6c8f,50:7e6fb0,100:4fc3d9&height=240&section=header&text=Riska%20Ayu%20Nauli&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%C2%B7%20Cyber%20Security%20Enthusiast&descSize=20&descAlignY=58" width="100%" alt="header" />
 
 <div align="center">
 
-<a href="https://github.com/riska-naul1">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&height=40&lines=Building+web+applications+with+PHP+and+Laravel;Informatics+Student+%40+Politeknik+Negeri+Lhokseumawe;Growing+one+commit+at+a+time" alt="typing" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4FC3D9&center=true&vCenter=true&width=640&height=45&lines=Building+web+apps+with+PHP+%26+Laravel;Learning+Cyber+Security+every+day;Growing+one+commit+at+a+time;Currently+building+RekberinAja" alt="typing" /></a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🎓_Politeknik_Negeri_Lhokseumawe-'25-7e6fb0?style=for-the-badge&labelColor=1f2a44" />
+<img src="https://img.shields.io/badge/💻_Fullstack-Developer-4fc3d9?style=for-the-badge&labelColor=1f2a44" />
+<img src="https://img.shields.io/badge/🔐_Cyber-Security-ff6b9d?style=for-the-badge&labelColor=1f2a44" />
 
 <br/><br/>
 
-<a href="mailto:naulimaba@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="Email" /></a>
-<a href="https://www.instagram.com/rizkaayunauly"><img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=8b5cf6" alt="Instagram" /></a>
-<a href="https://rekberinaja.com"><img src="https://img.shields.io/badge/RekberinAja-0f172a?style=for-the-badge&logo=googlechrome&logoColor=22d3ee" alt="Website" /></a>
+<img src="https://komarev.com/ghpvc/?username=riska-naul1&label=Profile%20views&color=7e6fb0&style=flat" />
+<img src="https://img.shields.io/github/followers/riska-naul1?style=social" />
 
 </div>
 
 <br/>
 
-## `> whoami`
+## ✨ Hello, I'm Riska
 
-```javascript
-const riska = {
-  name: "Riska Ayu Nauli",
-  role: "Fullstack Developer @ RekberinAja",
-  education: "Informatics, Politeknik Negeri Lhokseumawe '25",
-  location: "Aceh, Indonesia",
-  focus: ["Web Development", "Backend Engineering", "Cyber Security"],
-  openTo: ["Internship", "Collaboration"],
-  motto: "Growing one commit at a time",
-};
-```
-
-<br/>
-
-## `> stack`
+Mahasiswi **Teknik Informatika** di **Politeknik Negeri Lhokseumawe**. Aku suka membangun aplikasi web dari sisi frontend sampai backend, sambil belajar mengamankannya supaya tidak mudah dibobol.
 
 <table>
-  <tr>
-    <td width="150"><b>Language</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=8892BF" alt="PHP" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Framework</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Laravel-0f172a?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Database</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/pgAdmin-0f172a?style=for-the-badge&logo=postgresql&logoColor=22d3ee" alt="pgAdmin" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Environment</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
-      <img src="https://img.shields.io/badge/VS%20Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Version Control</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Sedang Dikerjakan
+**[RekberinAja](https://rekberinaja.com/)**
+Platform yang aku kembangkan sekarang.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Sedang Dipelajari
+Modern web technologies, secure coding, dan dasar-dasar cyber security.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 Tanya Aku Soal
+PHP · Laravel · Web Development
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Target
+Jadi fullstack developer yang paham keamanan aplikasi.
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-## `> projects`
+## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://rekberinaja.com">RekberinAja</a></h3>
-      <p>Platform for safer online transactions. I contribute as a Fullstack Developer.</p>
-      <img src="https://img.shields.io/badge/Laravel-312e81?style=flat-square" />
-      <img src="https://img.shields.io/badge/PostgreSQL-0e7490?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>Project Name</h3>
-      <p>Short description of what it does and the problem it solves.</p>
-      <img src="https://img.shields.io/badge/Tech-312e81?style=flat-square" />
-      <img src="https://img.shields.io/badge/Tech-0e7490?style=flat-square" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<br/>
+**Web & Backend**
 
-## `> activity`
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,tailwind,bootstrap&perline=8" alt="web" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=riska-naul1&background=0D1117&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&hide_border=true" alt="streak" />
-</p>
+**Tools & Environment**
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riska-naul1/riska-naul1/output/github-snake-dark.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/riska-naul1/riska-naul1/output/github-snake.svg" />
-  </picture>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman&perline=6" alt="tools" />
+
+**Lagi Dijelajahi**
+
+<img src="https://skillicons.dev/icons?i=go,rust,java,react&perline=4" alt="exploring" />
+
+</div>
 
 <br/>
 
-## `> contact`
+## 📊 GitHub Stats
 
-<p align="center">
-  Open for internships and collaboration. Feel free to reach out.
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:naulimaba@gmail.com">naulimaba@gmail.com</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/rizkaayunauly">@rizkaayunauly</a>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=riska-naul1&show_icons=true&theme=radical&hide_border=true&border_radius=12" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riska-naul1&layout=compact&theme=radical&hide_border=true&border_radius=12" alt="top langs" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,55:312e81,100:0f172a&height=110&section=footer" width="100%" alt="footer" />
+</div>
+
+<br/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riska-naul1&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" width="95%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=riska-naul1&theme=radical&hide_border=true&border_radius=12" alt="streak" />
+
+</div>
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:riska@rekberinaja.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
+<a href="https://rekberinaja.com/"><img src="https://img.shields.io/badge/RekberinAja-4fc3d9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="rekberinaja" /></a>
+
+<br/><br/>
+
+*🌱 Growing one commit at a time*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b6c8f,50:7e6fb0,100:4fc3d9&height=100&section=footer" width="100%" alt="footer" />
