@@ -18,25 +18,37 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,tailwind,bootstrap,git,vscode,linux,figma&perline=12" alt="skills" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=800&color=4FC3D9&center=true&vCenter=true&width=500&height=35&lines=%2F%2F+MY+TOOLKIT;%2F%2F+EQUIPPED+%26+READY" alt="toolkit" />
+
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="64" alt="Laravel" /><br/><br/><sub><b>Laravel</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="64" alt="MySQL" /><br/><br/><sub><b>MySQL</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="64" alt="JavaScript" /><br/><br/><sub><b>JavaScript</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="64" alt="HTML" /><br/><br/><sub><b>HTML</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="64" alt="CSS" /><br/><br/><sub><b>CSS</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="64" alt="GitHub" /><br/><br/><sub><b>GitHub</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="64" alt="VS Code" /><br/><br/><sub><b>VS Code</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="64" alt="Linux" /><br/><br/><sub><b>Linux</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="64" alt="Git" /><br/><br/><sub><b>Git</b></sub></td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:4fc3d9,100:7e6fb0&height=3&section=header" width="80%" alt="divider" />
+
+<sub>⚡ powered by curiosity, coffee, and a lot of <code>git commit</code> ⚡</sub>
 
 </div>
 
