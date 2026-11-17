@@ -104,6 +104,35 @@ Jadi fullstack developer yang paham keamanan aplikasi.
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2000&color=4FC3D9&repeat=false&width=500&height=35&lines=%2F%2F+GITHUB+STATS" alt="github stats" />
+
+<div align="center">
+
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" alt="profile details" />
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="stats" />
+
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%" alt="top languages by repo" />
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%" alt="most commit language" />
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="32%" alt="commits by time" />
+
+</div>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2000&color=4FC3D9&repeat=false&width=500&height=35&lines=%2F%2F+CONTRIBUTION+SNAKE" alt="contribution snake" />
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riska-naul1/riska-naul1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riska-naul1/riska-naul1/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/riska-naul1/riska-naul1/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2000&color=4FC3D9&repeat=false&width=500&height=35&lines=%2F%2F+SYSTEM+STATUS" alt="system status" />
 
 ```yaml
