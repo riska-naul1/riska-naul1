@@ -68,36 +68,77 @@
 
 <br/>
 
-<h2 align="center">🌌 About Me</h2>
-
-<p align="center">
-Mahasiswi <b>Teknik Informatika</b> di <b>Politeknik Negeri Lhokseumawe</b>.<br/>
-Suka membangun aplikasi web dari frontend sampai backend,<br/>
-sambil belajar mengamankannya supaya tidak mudah dibobol.
-</p>
+<h2 align="center">🌌 About Me 🌌</h2>
 
 <div align="center">
 
-| 🚀 Sedang dikerjakan | 🌱 Sedang dipelajari | 🎯 Target |
-|:---:|:---:|:---:|
-| Aplikasi web dengan PHP & Laravel | Secure coding & cyber security | Fullstack developer yang paham keamanan |
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=900&color=B388FF&center=true&vCenter=true&width=560&height=35&lines=%2F%2F+PLAYER+PROFILE+LOADED;%2F%2F+LEVEL+UP+IN+PROGRESS" alt="profile" />
+
+<table>
+<tr>
+<td align="right" width="190"><b>🧑‍🚀 CODENAME</b></td>
+<td width="460">Riska Ayu Nauli</td>
+</tr>
+<tr>
+<td align="right"><b>🎓 BASE CAMP</b></td>
+<td>Politeknik Negeri Lhokseumawe '25</td>
+</tr>
+<tr>
+<td align="right"><b>⚔️ CLASS</b></td>
+<td>Fullstack Developer</td>
+</tr>
+<tr>
+<td align="right"><b>🛡️ SPECIALTY</b></td>
+<td>Cyber Security <i>(still leveling up)</i></td>
+</tr>
+<tr>
+<td align="right"><b>🚀 MISSION</b></td>
+<td>Membangun aplikasi web yang cepat, rapi, dan aman</td>
+</tr>
+<tr>
+<td align="right"><b>🌱 SKILL TREE</b></td>
+<td>Laravel · MySQL · JavaScript · Secure Coding</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00e676?style=for-the-badge&labelColor=070b24" />
+<img src="https://img.shields.io/badge/MODE-LEARNING_%26_BUILDING-4fc3d9?style=for-the-badge&labelColor=070b24" />
+<img src="https://img.shields.io/badge/BATTERY-POWERED_BY_COFFEE_%E2%98%95-ff6b9d?style=for-the-badge&labelColor=070b24" />
+
+<br/><br/>
+
+<i>"Satu commit setiap hari, satu langkah lebih dekat ke developer yang kuimpikan."</i>
 
 </div>
 
 <br/>
 
-<h2 align="center">📡 Where to Find Me</h2>
+<h2 align="center">📡 Where to Find Me 📡</h2>
 
 <div align="center">
 
-<a href="https://github.com/riska-naul1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
-<a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
-<a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=1000&color=B3E5FC&center=true&vCenter=true&width=520&height=30&lines=Thanks+for+visiting+my+little+planet+%F0%9F%AA%90;See+you+among+the+stars+%E2%AD%90" alt="footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2800&pause=900&color=4FC3D9&center=true&vCenter=true&width=640&height=40&lines=%2F%2F+OPEN+TO+COLLABORATE;%2F%2F+LET'S+BUILD+SOMETHING+TOGETHER" alt="open to collaborate" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:070b24,100:1b1464&height=110&section=footer&animation=twinkling" width="100%" alt="footer" />
+```bash
+┌──(riska㉿naul1)-[~]
+└─$ ping riska --connect
+PING riska.planet-earth (🌍) 56 bytes of data.
+64 bytes from riska: icmp_seq=1 ttl=64 time=0.1 ms
+[✔] Connection established — say hi on any channel below ▮
+```
+
+<div align="center">
+
+<a href="https://github.com/riska-naul1"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0b132b" alt="github" /></a>
+<a href="https://instagram.com/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b132b" alt="instagram" /></a>
+<a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b132b" alt="linkedin" /></a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:3a2d7c,100:1fb6d4&height=170&section=footer&text=See%20you%20among%20the%20stars&fontSize=26&fontColor=ffffff&fontAlignY=68&animation=twinkling" width="100%" alt="See you among the stars" />
