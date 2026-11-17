@@ -1,14 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0b132b,45:3a2d7c,100:1fb6d4&height=200&section=header&animation=twinkling" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:3a2d7c,100:1fb6d4&height=280&section=header&text=Riska%20Ayu%20Nauli&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Fullstack%20Developer%20%C2%B7%20Cyber%20Security%20Enthusiast&descSize=20&descColor=e0f7fa&descAlignY=58" width="100%" alt="Riska Ayu Nauli" />
 
 <div align="center">
 
-<img src="https://wsrv.nl/?url=github.com/riska-naul1.png&w=180&h=180&fit=cover&mask=circle&output=png" width="140" alt="Riska Ayu Nauli" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=4FC3D9&center=true&vCenter=true&width=700&height=45&lines=%3E+Building+web+apps+with+PHP+%26+Laravel;%3E+Learning+Cyber+Security+every+day;%3E+Growing+one+commit+at+a+time;%3E+Turning+ideas+into+code+%E2%96%AE" alt="typing" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3500&pause=1200&color=4FC3D9&center=true&vCenter=true&width=800&height=80&lines=RISKA+AYU+NAULI;FULLSTACK+DEVELOPER;CYBER+SECURITY+ENTHUSIAST" alt="name" /></a>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=700&height=40&lines=%3E+Building+web+apps+with+PHP+%26+Laravel;%3E+Learning+Cyber+Security+every+day;%3E+Growing+one+commit+at+a+time;%3E+Turning+ideas+into+code+%E2%96%AE" alt="roles" /></a>
-
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/🎓_POLNEP-'25-7e6fb0?style=for-the-badge&labelColor=0b132b" />
 <img src="https://img.shields.io/badge/💻_FULLSTACK-DEVELOPER-4fc3d9?style=for-the-badge&labelColor=0b132b" />
