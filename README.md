@@ -1,4 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a7f9c,50:5a3fc0,100:c2275f&height=260&section=header&text=Riska%20Ayu%20Nauli&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Fullstack%20Developer%20%26%20Cyber%20Security%20Enthusiast&descSize=22&descColor=ffffff&descAlignY=60" width="100%" alt="Riska Ayu Nauli — Fullstack Developer & Cyber Security Enthusiast" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a7f9c,50:5a3fc0,100:c2275f&height=140&section=header" width="100%" alt="" />
+
+<div align="center">
+
+<a href="https://github.com/riska-naul1"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=44&duration=3500&pause=1500&color=5A3FC0&center=true&vCenter=true&width=900&height=80&lines=Riska+Ayu+Nauli" alt="Riska Ayu Nauli" /></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=20&duration=3500&pause=1200&color=0A7F9C&center=true&vCenter=true&width=900&height=40&lines=Fullstack+Developer+%26+Cyber+Security+Enthusiast" alt="Fullstack Developer and Cyber Security Enthusiast" />
+
+</div>
 
 ```bash
 $ whoami
