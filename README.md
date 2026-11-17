@@ -1,6 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b6c8f,50:7e6fb0,100:4fc3d9&height=240&section=header&text=Riska%20Ayu%20Nauli&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%C2%B7%20Cyber%20Security%20Enthusiast&descSize=20&descAlignY=58" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1f2a44,40:5b4b8a,100:4fc3d9&height=260&section=header&text=Riska%20Ayu%20Nauli&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Fullstack%20Developer%20%C2%B7%20Cyber%20Security%20Enthusiast&descSize=20&descColor=e0f7fa&descAlignY=58" width="100%" alt="header" />
 
 <div align="center">
+
+<img src="https://wsrv.nl/?url=github.com/riska-naul1.png&w=180&h=180&fit=cover&mask=circle&output=png" width="150" alt="Riska Ayu Nauli" />
+
+<h2>Hi there 👋 Welcome to my corner of the internet</h2>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4FC3D9&center=true&vCenter=true&width=640&height=45&lines=Building+web+apps+with+PHP+%26+Laravel;Learning+Cyber+Security+every+day;Growing+one+commit+at+a+time;Turning+ideas+into+code" alt="typing" /></a>
 
@@ -16,6 +20,30 @@
 <img src="https://img.shields.io/github/followers/riska-naul1?style=social" />
 
 </div>
+
+<br/>
+
+```bash
+┌──(riska㉿naul1)-[~]
+└─$ whoami
+riska-ayu-nauli
+
+┌──(riska㉿naul1)-[~]
+└─$ cat about.txt
+role     : Fullstack Developer
+interest : Cyber Security
+stack    : PHP · Laravel · MySQL · JavaScript
+campus   : Politeknik Negeri Lhokseumawe '25
+motto    : Growing one commit at a time 🌱
+
+┌──(riska㉿naul1)-[~]
+└─$ ./start_building.sh
+[✔] Coffee loaded
+[✔] Editor opened
+[✔] Ready to ship something great ▮
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2a44,50:7e6fb0,100:4fc3d9&height=3&section=header" width="100%" alt="divider" />
 
 <br/>
 
