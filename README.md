@@ -1,14 +1,24 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:070b24,100:1b1464&height=300&section=header&text=Hi%2C%20Traveler!&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=I'm%20Riska%20Ayu%20Nauli%2C%20coding%20from%20planet%20Earth&descSize=22&descColor=b3e5fc&descAlignY=60" width="100%" alt="Hi, Traveler! I'm Riska Ayu Nauli, coding from planet Earth" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a7f9c,50:5a3fc0,100:c2275f&height=260&section=header&text=Riska%20Ayu%20Nauli&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Fullstack%20Developer%20%26%20Cyber%20Security%20Enthusiast&descSize=22&descColor=ffffff&descAlignY=60" width="100%" alt="Riska Ayu Nauli — Fullstack Developer & Cyber Security Enthusiast" />
+
+```bash
+$ whoami
+riska-ayu-nauli
+$ ./load_profile.sh
+[ok] role     fullstack developer
+[ok] focus    cyber security
+[ok] stack    laravel, mysql, javascript
+[ok] status   online, siap membangun █
+```
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=4FC3D9&center=true&vCenter=true&width=720&height=45&lines=%F0%9F%9A%80+Fullstack+Developer;%F0%9F%94%90+Cyber+Security+Enthusiast;%F0%9F%8C%B1+Growing+one+commit+at+a+time;%F0%9F%8C%8D+Building+web+apps+with+PHP+%26+Laravel" alt="typing" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=20&duration=3000&pause=1000&color=5A3FC0&center=true&vCenter=true&width=720&height=45&lines=Building+web+apps+with+Laravel;Learning+Cyber+Security+every+day;Growing+one+commit+at+a+time" alt="typing" /></a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/🎓_Politeknik_Negeri_Lhokseumawe-'25-7e6fb0?style=for-the-badge&labelColor=070b24" />
-<img src="https://komarev.com/ghpvc/?username=riska-naul1&label=VISITORS&color=4fc3d9&style=for-the-badge&labelColor=070b24" />
-<img src="https://img.shields.io/github/followers/riska-naul1?style=for-the-badge&label=FOLLOWERS&color=ff6b9d&labelColor=070b24&logo=github" />
+<img src="https://img.shields.io/badge/🎓_Politeknik_Negeri_Lhokseumawe-'25-5a3fc0?style=for-the-badge&labelColor=0a7f9c" />
+<img src="https://komarev.com/ghpvc/?username=riska-naul1&label=VISITORS&color=c2275f&style=for-the-badge&labelColor=5a3fc0" />
+<img src="https://img.shields.io/github/followers/riska-naul1?style=for-the-badge&label=FOLLOWERS&color=0a7f9c&labelColor=5a3fc0&logo=github" />
 
 </div>
 
