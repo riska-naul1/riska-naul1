@@ -95,6 +95,6 @@
 
 *"Belajar sedikit demi sedikit, lama-lama jadi bukit."* ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer"/>
+<img src="./assets/footer.svg"/>
 
 </div>
