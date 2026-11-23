@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Riska%20Ayu%20Nauli&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Penggemar%20Coding%20%7C%20Java%20%7C%20Python%20%7C%20SQL&descAlignY=60&descSize=18"/>
+<img src="./assets/header.svg" alt="Riska Ayu Nauli" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1B93C9&center=true&vCenter=true&width=600&lines=Halo%2C+saya+Riska+Ayu+Nauli+%F0%9F%91%8B;Suka+ngoding+dan+belajar+hal+baru+%F0%9F%92%BB;Sedang+mendalami+Database+%F0%9F%97%84%EF%B8%8F;Java+%E2%80%A2+Python+%E2%80%A2+SQL"/></a>
 
